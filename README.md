@@ -1,0 +1,2 @@
+# SimpleMall
+一个简单的B2B2C商城设计与实现，主要采用Java语言和MySQL数据库实现
